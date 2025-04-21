@@ -2,8 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>NRS Rental</title>
+  <meta name="viewport" content="width=device-width,
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -38,7 +37,6 @@
     <p>&copy; 2025 NRS Rental</p>
   </footer>
 
-  <script src="script.js"></script>
 </body>
 </html>
 <p><strong>Phone:</strong> <a href="tel:+18687890535">18687890535</a></p>
