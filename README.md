@@ -10,7 +10,7 @@
     <h1>Welcome to NRS Rental</h1>
     <nav>
       <ul>
-        <li><a href="#services">Services</a></li>
+        <li><a href="#services">Service</a></li>
         <li><a href="#about">About</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
@@ -19,7 +19,7 @@
 
   <section id="services">
     <h2>Our Services</h2>
-    <p>We offer rental services for all types of equipment.</p>
+    <p>We offer rental services for all types of room/apartment.</p>
   </section>
 
   <section id="about">
