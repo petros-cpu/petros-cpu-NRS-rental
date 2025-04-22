@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body>![IMG-20250327-WA0008.jpeg](https://github.com/user-attachments/assets/549b30e3-eb91-4e80-89fb-109d6760cf12)
   <header>
     <h1>Welcome to NRS Rental</h1>
     <nav>
