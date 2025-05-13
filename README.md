@@ -30,7 +30,7 @@
 
   <section id="contact">
     <h2>Contact Us</h2>
-    <p>Get in touch with us to rent equipment.</p>
+    <p>Get in touch with us to rent.</p>
     <p><strong>Phone:</strong> <a href="tel:+18687890535">18687890535</a></p>
   </section>
 
